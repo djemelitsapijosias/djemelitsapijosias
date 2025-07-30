@@ -149,7 +149,7 @@
 
 ### 🎓 University Management System(UMS) *(In Progress – under I-TECH RESEARCH CENTER)*
 - Handles registration, transcript, reports, and multi-role access
-🔧 Technologies: PHP, MySQL, Bootstrap, Role-Based Security... 
+🔧 Technologies: PHP, MySQL, Bootstrap, Role-Based Security...
 🔗 [University System](#)  
 📸 ![university](screenshots/university.png)
 
