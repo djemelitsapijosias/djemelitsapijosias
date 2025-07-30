@@ -81,28 +81,35 @@
 
 ### 👨‍💻 Junior Application Developer – SIGERIS SARL *(Jul–Sep 2024)*
 - Developed a Student Management System with Role-based Security
-🔗 [Student Management System](#)  
-📸 ![student-management](screenshots/student-management.png)
+🔗 [Student Management System](repository1)  
 
 ---
 
 ### 🛻 MissExpress Hackathon – Douala Innovation Week *(Jul 2024)*
 - Built a logistics app prototype with real-time user tracking and backend routing
-🔗 [MissExpress Hackathon](#)  
-📸 ![missexpress](screenshots/missexpress.png)
+🔗 [MissExpress Hackathon](repository2)  
+<p align="center">
+  <img src="./src/images/missExpress.PNG" alt="MissExpress App Screenshot 2" width="200" />
+  <img src="./src/images/missExpress1.PNG" alt="MissExpress App Screenshot 2" width="200" />
+  <img src="./src/images/missExpress2.PNG" alt="MissExpress App Screenshot 2" width="200" />
+</p>
 
 ---
 
 ### 🌐 LAN Deployment – Sapientaie Univ. *(Jan 2025)*
-- Supervised complete setup of internal LAN across departments
-📸 ![lan-deployment](screenshots/lan-deployment.png)
+- Supervised complete setup of internal LAN across institution departments
 
 ---
 
-### 🖨 Certificate Issuance System *(Jan–Apr 2025)*
+### 🖨 Birth Registration & Certificate Issuance System *(Jan–Apr 2025)*
 - Automated certificate generation and PDF issuance via FPDF
-🔗 [Certificate System](#)  
-📸 ![certificate-system](screenshots/certificate-system.png)
+🔗 [Certificate System](repository3)
+<p align="center">
+  <img src="./src/images/Attestation_Info.PNG" alt="Certificate App Screenshot 2" width="200" height="200"/>
+  <img src="./src/images/BirthAttestation.PNG" alt="Certificate App Screenshot 3" width="200" height="200"/> </br>
+  <img src="./src/images/Certificate.PNG" alt="Certificate App Screenshot 3" width="200" height="200"/>
+  <img src="./src/images/db_Schema.svg" alt="Certificate App Screenshot 1" width="200" height="200"/>
+</p>
 
 ---
 
@@ -110,8 +117,13 @@
 🗓 Theme: *“Innovation technologique au service du développement local”*  
 - Developed a functional **E-commerce platform**   
 - Included product listing, cart, and checkout functionality  
-🔗 [Sanja E-commerce App](#)  
-📸 ![sanja](screenshots/sanja.png)
+🔗 [Sanja E-commerce App](repository4)   
+<p align="center">
+  <img src="./src/images/Sanja.PNG" alt="Sanja App Screenshot 2" width="200" />
+  <img src="./src/images/Sanja1.PNG" alt="Sanja App Screenshot 2" width="200" />
+  <img src="./src/images/Sanja2.PNG" alt="Sanja App Screenshot 2" width="200" />
+  <img src="./src/images/Sanja_Db_Schema.svg" alt="Sanja App Screenshot 2" width="200" />
+</p>
 
 ---
 
@@ -119,8 +131,6 @@
 
 ### 🧩 Freelance IT Consultant *(Jan 2024 – Present)*
 - Consulted for local businesses on system design, optimization, and maintenance
-🔗 [Business ERP System](#)  
-🔗 [School Portal Automation](#)
 
 ---
 
@@ -128,30 +138,30 @@
 
 ### 📦 Stock Management App
 - Inventory tracking and alerting system  
-🔗 [Stock Management](#)  
-📸 ![stock](screenshots/stock.png)
+🔗 [Stock Management](repository5)  
 
 ---
 
 ### 🍴 Restaurant App
 - Menu, Orders, Staff dashboard, Admin controls  
-🔗 [Restaurant App](#)  
-📸 ![restaurant](screenshots/restaurant.png)
+🔗 [Restaurant App](repository6)
 
 ---
 
 ### 🏠 Apartment Rental App
 - Property listing, search by city, landlord contact  
-🔗 [Apartment Rental](#)  
-📸 ![apartment](screenshots/apartment.png)
+🔗 [Apartment Rental](repository7)
 
 ---
 
 ### 🎓 University Management System(UMS) *(In Progress – under I-TECH RESEARCH CENTER)*
 - Handles registration, transcript, reports, and multi-role access
-🔧 Technologies: PHP, MySQL, Bootstrap, Role-Based Security...
-🔗 [University System](#)  
-📸 ![university](screenshots/university.png)
+🔧 Technologies: PHP, MySQL, Bootstrap, Role-Based Security  
+🔗 [University System](repository8)  
+<p align="center">
+  <img src="./src/images/ums.PNG" alt="ums App Screenshot 2" width="200" />
+  <img src="./src/images/ums1.PNG" alt="ums App Screenshot 2" width="200" />
+</p>
 
 ---
 
