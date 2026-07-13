@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/djemeli-tsapi-josias">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://github.com/djemelitsapijosias">
+  <a href="https://djemeli-tsapi-josias.vercel.app/">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github">
   </a>
 </p>
