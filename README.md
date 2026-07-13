@@ -147,6 +147,7 @@ Seeking opportunities in:
 
 Email: [djemelitsapijosias@gmail.com](mailto:djemelitsapijosias@gmail.com)
 LinkedIn: https://www.linkedin.com/in/djemeli-tsapi-josias
+portfolio: https://djemeli-tsapi-josias.vercel.app/
 
 ---
 
