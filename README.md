@@ -1,55 +1,65 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0B1D16&customColorList=24,30&section=header&text=Djemeli%20Tsapi%20Josias&desc=Software%20Engineering%20%20%7C%20Cybersecurity%20%7C%20Network%20Infrastructure&animation=fadeIn&fontColor=00A676&fontSize=30&descSize=18&fontAlignY=35&descAlignY=55" alt="Header" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0B1D16&customColorList=12,24&section=header&text=Djemeli%20Tsapi%20Josias&desc=Software%20Engineering%20%7C%20Cybersecurity%20%7C%20Network%20Infrastructure&fontSize=28&fontColor=A3FF00&descSize=17&descColor=00A676&animation=fadeIn"
+    alt="Djemeli Tsapi Josias profile banner"
+  />
 
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00A676&center=true&vCenter=true&repeat=true&width=850&lines=Software+Engineer;Cybersecurity+Engineer;Network+Infrastructure+Specialist;System+Builder" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=1000&color=00A676&center=true&vCenter=true&repeat=true&width=880&lines=Software+Engineer;Cybersecurity+Specialist;Network+Infrastructure+Builder;System+Designer;Digital+Problem+Solver"
+      alt="Typing animation"
+    />
   </a>
 
-</div>
+  <br>
 
-<div align="center">
   <a href="https://www.linkedin.com/in/djemeli-tsapi-josias">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://djemeli-tsapi-josias.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0B1D16?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore-0B1D16?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:djemelitsapijosias@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00A676?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-A3FF00?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/djemelitsapijosias/djemelitsapijosias/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djemelitsapijosias/djemelitsapijosias/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/djemelitsapijosias/djemelitsapijosias/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation" />
+  </picture>
 </div>
 
 <br>
 
-<h2 align="center">
-  <pre><code>🌟 Welcome to My Digital Universe 🌟</code></pre>
-</h2>
+<h2 align="center">🌍 Welcome to My Digital Universe</h2>
 
 <div align="center">
   <p>
-    <strong>Most software gets built fast. Security is often considered later.<br>
+    <strong>Most software gets built fast. Security is often considered later.<br />
     I believe both should be designed together.</strong>
   </p>
 
   <p>
-    I'm an IT engineer from Cameroon working at the intersection of<br>
-    Software Engineering, Cybersecurity and Network Infrastructure.
+    I'm an IT engineer from Cameroon creating digital systems at the intersection of<br />
+    <b>Software Engineering</b>, <b>Cybersecurity</b>, and <b>Network Infrastructure</b>.
   </p>
 
   <p>
-    My focus is on building digital solutions, securing systems,<br>
-    and designing reliable technology environments.
+    My work is focused on building resilient applications, securing systems,<br />
+    and designing technology environments that people can trust.
   </p>
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/djemelitsapijosias">
@@ -59,87 +69,41 @@
 
 <br>
 
-<h2 align="center">💻 Software Engineering Stack</h2>
-
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65">
-      <br>JavaScript
+    <td width="33%" valign="top" align="center">
+      <h3>💻 BUILD</h3>
+      <p>Software engineering, reliable web systems, and useful digital products.</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50" alt="Express" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" />
+      <br>
+      <code>Full-Stack</code> · <code>REST API</code> · <code>Backend</code>
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65">
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65">
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="65" height="65">
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="65" height="65">
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="65" height="65">
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65">
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="65" height="65">
-      <br>MySQL
-    </td>
-  </tr>
-</table>
 
-<h2 align="center">🛡️ Cybersecurity & Security Stack</h2>
+    <td width="33%" valign="top" align="center">
+      <h3>🛡️ SECURE</h3>
+      <p>Security assessment, vulnerability analysis, and trustworthy systems.</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
+      <img src="https://www.kali.org/images/kali-logo.svg" width="50" height="50" alt="Kali Linux" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="50" height="50" alt="Wireshark" />
+      <img src="https://nmap.org/images/nmap-logo-256x256.png" width="50" height="50" alt="Nmap" />
+      <img src="https://portswigger.net/content/images/logos/portswigger-logo.svg" width="90" height="42" alt="Burp Suite" />
+      <br>
+      <code>Security Assessments</code> · <code>Threat Analysis</code>
+    </td>
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="65" height="65">
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="65" height="65">
-      <br>Kali
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="65" height="65">
-      <br>Wireshark
-    </td>
-    <td align="center" width="96">
-      <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="65" height="65">
-      <br>Nmap
-    </td>
-    <td align="center" width="96">
-      <img src="https://portswigger.net/content/images/logos/portswigger-logo.svg" alt="Burp Suite" width="110" height="55">
-      <br>Burp Suite
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">🌐 Network Infrastructure Stack</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" alt="Cisco" width="65" height="65">
-      <br>Cisco
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/MikroTik_logo.svg" alt="MikroTik" width="90" height="65">
-      <br>MikroTik
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Networking" width="65" height="65">
-      <br>Linux
+    <td width="33%" valign="top" align="center">
+      <h3>🌐 CONNECT</h3>
+      <p>Designing network architecture, resilience, and infrastructure reliability.</p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" width="50" height="50" alt="Cisco" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/MikroTik_logo.svg" width="80" height="50" alt="MikroTik" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
+      <br>
+      <code>Routing</code> · <code>Switching</code> · <code>Infrastructure</code>
     </td>
   </tr>
 </table>
@@ -148,17 +112,17 @@
 
 <h2 align="center">🚀 Selected Projects</h2>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>SHIELD</h3>
       <p><strong>Secure Document Verification</strong></p>
-      <p>A project focused on verifying the authenticity and integrity of official documents through digital signatures, cryptographic verification and QR codes.</p>
+      <p>A project focused on verifying authenticity and integrity with digital signatures, cryptographic validation, and QR-based trust mechanisms.</p>
     </td>
     <td width="50%" valign="top" align="center">
       <h3>University Management System</h3>
       <p><strong>Digital University Services</strong></p>
-      <p>A web application project focused on supporting university management processes and improving access to academic services.</p>
+      <p>A web application designed to simplify academic workflows, improve access to university services, and digitize management processes.</p>
     </td>
   </tr>
 </table>
@@ -190,20 +154,22 @@
 <h2 align="center">🌌 Contribution Cosmos</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=djemelitsapijosias&custom_title=Contribution%20Galaxy&bg_color=0B1D16&color=00A676&line=A3FF00&point=E7ECEA&area=true&hide_border=true" width="100%" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=djemelitsapijosias&custom_title=Contribution%20Galaxy&bg_color=0B1D16&color=00A676&line=A3FF00&point=E7ECEA&area=true&hide_border=true" width="100%" alt="Contribution graph" />
 </div>
 
 <br>
 
 <h2 align="center">⚡ GitHub Analytics</h2>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djemelitsapijosias&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0B1D16&hide_border=true&title_color=00A676&icon_color=A3FF00" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djemelitsapijosias&layout=compact&langs_count=8&theme=radical&bg_color=0B1D16&hide_border=true&title_color=00A676" alt="Top languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=djemelitsapijosias&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0B1D16&hide_border=true&title_color=00A676&icon_color=A3FF00" height="180em" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djemelitsapijosias&layout=compact&langs_count=8&theme=radical&bg_color=0B1D16&hide_border=true&title_color=00A676" height="180em" alt="Top languages" />
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djemelitsapijosias&theme=github_dark" width="100%" alt="Profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djemelitsapijosias&theme=github_dark" width="100%" alt="GitHub profile summary cards" />
 </div>
 
 <br>
@@ -225,7 +191,7 @@ SECURE      →   Cybersecurity & Information Security
 
 CONNECT     →   Network Infrastructure & Systems
 
-EXPLORE     →   Security Research & Continuous Learning</code></pre>
+EXPLORE     →   Research, Learning & Continuous Improvement</code></pre>
 </div>
 
 <br>
@@ -253,5 +219,9 @@ EXPLORE     →   Security Research & Continuous Learning</code></pre>
 <br>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B1D16&customColorList=12&height=150&section=footer&text=BUILD%20%E2%80%A2%20SECURE%20%E2%80%A2%20CONNECT&fontSize=30&fontColor=A3FF00" alt="Footer banner" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0B1D16&customColorList=12&height=150&section=footer&text=BUILD%20%E2%80%A2%20SECURE%20%E2%80%A2%20CONNECT&fontSize=26&fontColor=A3FF00&animation=fadeIn"
+    alt="Footer banner"
+  />
 </div>
