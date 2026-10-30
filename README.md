@@ -1,156 +1,154 @@
-<!-- HEADER -->
+# Djemeli Tsapi Josias
+
+### Software Engineering · Cybersecurity · Network Infrastructure
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F3BB&center=true&vCenter=true&width=750&lines=Hello%2C+I+am+Mr.+Djemeli+Tsapi+Josias;IT+Engineer+Student+%7C+Cybersecurity+%26+Software+Engineering;Building+Secure+%26+Scalable+Systems;Open+to+Internships+%26+Professional+Opportunities" />
-</p>
-
-<p align="center">
-  <a href="mailto:djemelitsapijosias@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/djemeli-tsapi-josias">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://djemeli-tsapi-josias.vercel.app/">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github">
-  </a>
+  <a href="https://www.linkedin.com/in/djemeli-tsapi-josias">LinkedIn</a> ·
+  <a href="https://djemeli-tsapi-josias.vercel.app/">Portfolio</a> ·
+  <a href="mailto:djemelitsapijosias@gmail.com">Email</a>
 </p>
 
 ---
 
-## Professional Summary
+> Most software gets built fast. Security is often considered later. **I believe both should be designed together.**
 
-Mr. Djemeli Tsapi Josias is an Engineering Student (Licence Technologique) specializing in Quality, Security of Computer Systems and Networks. He has a background in Software Engineering and combines competencies in system administration, network fundamentals, and secure application development.
+I'm **Djemeli Tsapi**, an IT engineer from Cameroon working at the intersection of **software engineering, cybersecurity and network infrastructure**.
 
-He has practical experience in IT support, system deployment, and database-driven application development, with a focus on building secure, reliable, and scalable solutions.
+My background combines an HND in Computer Software Engineering with engineering-level training as an *Ingénieur de Travaux Informatiques*, specialized in **Quality and Security of Computer Systems and Networks (QSIR)** at IUT Fotso Victor de Bandjoun.
 
----
+I build and secure digital systems across three connected layers.
 
-## Core Competencies
+## 01 / BUILD — Software Engineering
 
-Cybersecurity
+I design and develop applications and backend systems, with attention to functionality, maintainability and software quality.
 
-* Access control and authentication concepts
-* Data protection and confidentiality
-* Security best practices and risk awareness
-* Secure application design (foundations)
+- Full-stack web applications
+- REST APIs and backend systems
+- React.js, Express.js, PHP and Python/FastAPI
+- PostgreSQL and MySQL
+- Database design, software quality and testing
 
-Networks and Systems
+## 02 / SECURE — Cybersecurity
 
-* IP addressing and subnetting
-* LAN design and deployment
-* Network troubleshooting (basic level)
-* Linux and Windows fundamentals
+I work on understanding weaknesses, assessing technical risks and improving the security of applications, systems and networks.
 
-Software Engineering
+- Security assessments and technical reviews
+- Web application and network security
+- Secure system design
+- Linux and Kali environments
+- Cryptography fundamentals
+- Vulnerability research, analysis and technical recommendations
 
-* Backend development with PHP and MySQL
-* System design and database modeling
-* Web application development
-* Software testing and debugging
+## 03 / CONNECT — Network Infrastructure
 
----
+I work with the infrastructure that connects systems, services and users.
 
-## Technology Stack
-
-Programming
-PHP, JavaScript, SQL, C, C++, Python (basic)
-
-Web and Backend
-HTML, CSS, Bootstrap, jQuery, FPDF
-
-Databases
-MySQL, phpMyAdmin, MySQL Workbench
-
-Networking
-Cisco Packet Tracer, LAN configuration
-
-Tools
-VS Code, GitHub, XAMPP, Draw.io
+- Network architecture, deployment and administration
+- Cisco and MikroTik environments
+- Routers, switches and servers
+- Linux systems
+- High-availability architecture and redundancy
+- Network troubleshooting and infrastructure security
 
 ---
 
-## Professional Experience
+# SELECTED PROJECTS
 
-Junior Application Developer — SIGERIS SARL (2024)
+My projects span application development, cybersecurity, connected systems and infrastructure design.
 
-* Developed a student management system with role-based access control
-* Worked on database structure, debugging, and testing
+### SHIELD — Secure Official-Document Verification
 
-Freelance IT Consultant (2024 – Present)
+A collaborative final-year project: a web-based solution for managing, digitally signing and publishing official communications, with cryptographic verification and QR codes.
 
-* System installation and maintenance
-* User support and troubleshooting
-* Development of business applications
-* Application of data protection practices
+The project brings together full-stack development, authentication, digital signatures and document-integrity verification.
 
----
+**Repository:** [SOFTWARE-ING/PFE](https://github.com/SOFTWARE-ING/PFE)
 
-## Key Projects
+**Selected contributions:**
 
-University Management System (In Progress)
+- [Project structure, documentation and 2FA — PR #13](https://github.com/SOFTWARE-ING/PFE/pull/13)
+- [Frontend contribution — PR #11](https://github.com/SOFTWARE-ING/PFE/pull/11)
+- [Backend configuration and routing — PR #12](https://github.com/SOFTWARE-ING/PFE/pull/12)
+- [Mobile integration — PR #16](https://github.com/SOFTWARE-ING/PFE/pull/16)
 
-* Multi-role system handling registration, transcripts, and reporting
-* Focus on secure architecture and database design
+*SHIELD is collaborative work. These links identify contributions within the shared project repository.*
 
-Certificate Issuance System
+### University Management System
 
-* Secure document generation platform
-* Role-based access control with PDF generation
+A multi-part academic management application. My GitHub account currently contains the frontend repository.
 
-LAN Deployment Project
+**Repository:** [ums-frontend](https://github.com/djemelitsapijosias/ums-frontend)
 
-* Designed and deployed a local network infrastructure
-* Implemented IP addressing and resource sharing
+### Other Engineering Projects
 
-Sanja E-Commerce Platform (Hackathon)
+Additional academic, collaborative and independent work includes:
 
-* Developed a functional e-commerce application
-* Implemented backend logic and database integration
+- Birth-certificate registration and issuance platform
+- IoT-based anti-theft system
+- High-availability architecture and redundancy projects
+- University and business management systems
+- Technology hackathon projects
 
----
-
-## Cybersecurity Learning
-
-Currently developing competencies in:
-
-* Network security fundamentals
-* Secure coding practices
-* System hardening concepts
-* Vulnerability awareness
-
-Planned practical work includes packet analysis, web security testing, and Linux system security.
+Project documentation and public source-code links are being organized as the portfolio is rebuilt.
 
 ---
 
-## GitHub Statistics
+# EXPERIENCE & TECHNICAL PRACTICE
+
+My experience includes software engineering work at **SIGERIS SARL**, network and IT work at **ISSAB University**, and independent projects involving web development, IT support, cybersecurity recommendations and network infrastructure.
+
+I also contribute to technical learning and project reviews through collaborative work with students and developers, sharing practical guidance on applications, networks, Linux environments and security.
+
+---
+
+# TECHNOLOGIES & TOOLS
+
+**Development**
+
+`JavaScript` `PHP` `Python` `React.js` `Express.js` `FastAPI`
+
+**Databases**
+
+`PostgreSQL` `MySQL` `SQL`
+
+**Cybersecurity & Systems**
+
+`Linux` `Kali Linux` `Nmap` `Wireshark` `Burp Suite`
+
+**Networking**
+
+`Cisco` `MikroTik` `Routing` `Switching` `Network Infrastructure`
+
+**Development Workflow**
+
+`Git` `GitHub` `VS Code` `Draw.io`
+
+---
+
+# CURRENT DIRECTION
+
+I'm interested in opportunities where I can contribute across software engineering, cybersecurity or network/infrastructure engineering while deepening my experience in security operations and, over time, SOC environments.
+
+I'm particularly interested in:
+
+- Secure software architecture
+- Web application and network security
+- Infrastructure resilience and high availability
+- Vulnerability analysis and security research
+- Distributed systems and network services
+- Security operations and SOC environments
+
+---
+
+# LET'S CONNECT
+
+If you're building a web application, improving the security of an existing system, or designing and deploying reliable network infrastructure, let's talk.
+
+- **Email:** [djemelitsapijosias@gmail.com](mailto:djemelitsapijosias@gmail.com)
+- **LinkedIn:** [Djemeli Tsapi Josias](https://www.linkedin.com/in/djemeli-tsapi-josias)
+- **Portfolio:** [djemeli-tsapi-josias.vercel.app](https://djemeli-tsapi-josias.vercel.app)
+- **GitHub:** [github.com/djemelitsapijosias](https://github.com/djemelitsapijosias)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djemelitsapijosias&show_icons=true&theme=algolia" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djemelitsapijosias&layout=compact&theme=algolia" width="350"/>
+  <sub>BUILD · SECURE · CONNECT</sub>
 </p>
-
----
-
-## Career Focus
-
-Seeking opportunities in:
-
-* Cybersecurity (internship or junior role)
-* Network administration
-* Software engineering (backend and systems)
-* IT support and infrastructure
-
----
-
-## Contact
-
-Email: [djemelitsapijosias@gmail.com](mailto:djemelitsapijosias@gmail.com)
-LinkedIn: https://www.linkedin.com/in/djemeli-tsapi-josias
-portfolio: https://djemeli-tsapi-josias.vercel.app/
-
----
-
-## Availability
-
-Available for internships, entry-level roles, freelance work, and technical collaborations.
