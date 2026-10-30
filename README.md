@@ -1,8 +1,7 @@
-# Djemeli Tsapi Josias
-
-### Software Engineering · Cybersecurity · Network Infrastructure
-
 <p align="center">
+  <img src="./src/profile-banner.svg"
+       alt="Djemeli Tsapi Josias — Building and securing digital systems"
+       width="100%">
   <a href="https://www.linkedin.com/in/djemeli-tsapi-josias">LinkedIn</a> ·
   <a href="https://djemeli-tsapi-josias.vercel.app/">Portfolio</a> ·
   <a href="mailto:djemelitsapijosias@gmail.com">Email</a>
