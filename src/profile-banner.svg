@@ -1,0 +1,63 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420">
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1D16"></stop>
+      <stop offset="100%" stop-color="#102B22"></stop>
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#E7ECEA" stroke-opacity="0.06"></path>
+    </pattern>
+  </defs>
+
+  <rect width="1400" height="420" fill="url(#background)"></rect>
+  <rect width="1400" height="420" fill="url(#grid)"></rect>
+
+  <!-- Architectural network lines -->
+  <g fill="none" stroke="#00A676" stroke-width="2" opacity="0.8">
+    <path d="M930 90 H1080 L1160 170 H1300"></path>
+    <path d="M930 210 H1040 L1110 140 H1260"></path>
+    <path d="M930 330 H1060 L1140 250 H1320"></path>
+    <path d="M1080 90 V210 H1190 V330"></path>
+    <path d="M1160 170 V250 H1320"></path>
+  </g>
+
+  <!-- Connection points -->
+  <g fill="#0B1D16" stroke="#A3FF00" stroke-width="2">
+    <rect x="918" y="78" width="24" height="24" rx="4"></rect>
+    <rect x="1028" y="198" width="24" height="24" rx="4"></rect>
+    <rect x="1048" y="318" width="24" height="24" rx="4"></rect>
+    <circle cx="1080" cy="90" r="6"></circle>
+    <circle cx="1160" cy="170" r="6"></circle>
+    <circle cx="1140" cy="250" r="6"></circle>
+    <circle cx="1190" cy="210" r="6"></circle>
+    <circle cx="1300" cy="90" r="6"></circle>
+    <circle cx="1260" cy="140" r="6"></circle>
+    <circle cx="1320" cy="330" r="6"></circle>
+  </g>
+
+  <!-- Identity -->
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="92" y="118" font-size="17" letter-spacing="5" fill="#A3FF00">
+      SOFTWARE / SECURITY / INFRASTRUCTURE
+    </text>
+
+    <text x="88" y="202" font-size="56" font-weight="bold" fill="#E7ECEA">
+      DJEMELI TSAPI JOSIAS
+    </text>
+
+    <text x="92" y="258" font-size="25" fill="#D0DED8">
+      Building and securing digital systems.
+    </text>
+
+    <path d="M92 286 H670" stroke="#00A676" stroke-width="2"></path>
+
+    <text x="92" y="340" font-size="14" letter-spacing="3" fill="#A3FF00">
+      BUILD · SECURE · CONNECT
+    </text>
+  </g>
+
+  <rect x="1360" y="0" width="40" height="420" fill="#A3FF00"></rect>
+</svg>
